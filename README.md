@@ -11,6 +11,6 @@
 
 ### - 💬 Ask me about Happiness
 
-### - 📫 How to reach me: Tech me something interesting  
+### - 📫 How to reach me: in:<a href="https://www.linkedin.com/in/avinash-jha-677aa0193">Linkedin-Handle</a>  IG: <a href='https://www.instagram.com/avvinash.jha/?hl=en'>Instagram</a>
 
 ### - ⚡ Fun fact: I am also good in competitive POrogramming
