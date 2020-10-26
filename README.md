@@ -1,4 +1,4 @@
-<div width="300px" background="#111">
+<div >
   <span>
     <img src="https://raw.githubusercontent.com/A-jha/A-jha/4a30f81556b276ce62c4e310c17f5f4630a9d81d/banner.svg" width='50%' display='block' margin-left='auto' margin-right='auto' />
     <h2>Avinash jha</h2>
