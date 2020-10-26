@@ -1,20 +1,16 @@
-<div >
-  <span>
-    <img src="https://raw.githubusercontent.com/A-jha/A-jha/4a30f81556b276ce62c4e310c17f5f4630a9d81d/banner.svg" width='50%' display='block' margin-left='auto' margin-right='auto' />
-    <h2>Avinash jha</h2>
-  </span>
+<div>
+ <img src="https://github.com/A-jha/A-jha/blob/main/banner.png" />
+  <h2 background="blue">Hello I am Avinash jha</h2>
 </div>
-<!--
-**A-jha/A-jha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### - 🔭 I’m currently working on Full Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - 🌱 I’m currently learning React and Flutter
+
+### - 🤔 I’m looking for FullStack Web Dev Job
+
+### - 💬 Ask me about Happiness
+
+### - 📫 How to reach me: Tech me something interesting  
+
+### - ⚡ Fun fact: I am also good in competitive POrogramming
