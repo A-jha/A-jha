@@ -7,7 +7,7 @@
 
 ### - 🌱 I’m currently learning React and Flutter
 
-### - 🤔 I’m looking for full stack developer
+### - 🤔 I’m looking for full stack developer Job
 
 ### - 💬 Ask me about Happiness
 
