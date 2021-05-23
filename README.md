@@ -3,14 +3,36 @@
   <h2 color="blue">Hello I am Avinash jha</h2>
 </div>
 
-### - 🔭 I’m currently working on Full Stack Web Development
+###  🔭 I’m currently working on Full Stack Web Development
+### :hourglass: Programming language 
+ - Pyhon
+ - Javascript
+ - Typescript
+ - C++
+ - SQL
+ - C
+ - PHP
 
-### - 🌱 I’m currently learning React and Flutter
+###  🌱  I have a good understanding of 
+ - HTML
+ - CSS
+ - Nodejs
+ - React
+ - Express
+ - Django
+ - Postgresql
+ - Data Structure
+### :battery: I am currently Learning
+ - Advanced concept of React
+ - AWS
+ - Vew
 
-### - 🤔 I’m looking for full stack developer Job
+###  🤔  I’m looking for full stack developer Job.
 
-### - 💬 Ask me about Happiness
+###  💬  Ask me about a job as per my profile.
 
-### - 📫 How to reach me: in:<a href="https://www.linkedin.com/in/avinash-jha-677aa0193">Linkedin-Handle</a>  IG: <a href='https://www.instagram.com/avvinash.jha/?hl=en'>Instagram</a>
+###  📫  How to reach me: <br> 
+- **[Linkedin](https://www.linkedin.com/in/avinash-jha-677aa0193)**<br>
+- **[Instagram](https://www.instagram.com/avvinash.jha/?hl=en)**
 
 ### - ⚡ Fun fact: I am also good in competitive programming
