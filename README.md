@@ -25,7 +25,8 @@
 ### :battery: I am currently Learning
  - Advanced concept of React
  - AWS
- - Vew
+ - Vue
+ - ThreeJs
 
 ###  🤔  I’m looking for full stack developer Job.
 
