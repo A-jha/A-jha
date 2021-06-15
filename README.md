@@ -1,4 +1,3 @@
-![grow_together](https://github.com/A-jha/A-jha/blob/main/83102991-a4cb8400-a06a-11ea-9651-b9f2d9d3b42a.jpg)
 <div>
  <img src="https://github.com/A-jha/A-jha/blob/main/banner.png" />
   <h2 color="blue">Hello I am Avinash jha</h2>
