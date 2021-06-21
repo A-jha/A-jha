@@ -50,9 +50,9 @@
  - Vue
  - TensorFlow
 
-###  🤔  I’m looking for full stack developer Job.
+###  🤔  I’m looking for Job :).
 
-###  💬  Ask me about a job as per my profile.
+###  💬  Ask me about SQL Database, Reactjs and Flutter.
 
 
 
