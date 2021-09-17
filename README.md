@@ -4,16 +4,16 @@
 ###  👋 Hi There, I am Avinash jha
 ### Reach Me
 <a href="https://www.linkedin.com/in/avinash-jha-677aa0193/">
-  <img align="center" alt="Avinash's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="avvinashjha@gmail.com">
-  <img align="center" alt="Avinash's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" alt="Avinash's LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
+</a>&ensp;
+<a href="avvinashjha@gmail.com" >
+  <img align="center" alt="Avinash's Gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
 </a>
 </br>
 </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=A-Jha.A-Jha)
-[![GitHub followers](https://img.shields.io/github/followers/A-Jha.svg?style=social&label=Follow)](https://github.com/A-Jha?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/A-Jha.svg?style=social&label=Followers)](https://github.com/A-Jha?tab=followers)
 
 ###  🔭 I’m currently working on Full Stack Web Development and Machine Learning.
 ### :hourglass: Programming language 
@@ -23,8 +23,6 @@
  - Typescript
  - SQL
  - C
- - PHP
- - GoLang
  - Dart
 
 ###  🌱  I have a good understanding of 
@@ -47,20 +45,19 @@
 ### :battery: I am currently Learning
  - Advanced concept of React
  - AWS
- - Vue
  - TensorFlow
 
 ###  🤔  I’m looking for Job :).
 
-###  💬  Ask me about SQL Database, Reactjs and Flutter.
+###  💬  Talk To me to get more info :)
 
 
 
 ![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Jha&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### My GitHub profile trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=A-Jha)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/api?username=A-Jha&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]
 
 <a href="https://github.com/A-Jha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Jha&hide=css,html&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Jha&hide=css,html&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
