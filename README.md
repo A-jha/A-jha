@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/avinash-jha-677aa0193/">
   <img align="center" alt="Avinash's LinkedIn" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
 </a>&ensp;
-<a href="avvinashjha@gmail.com" >
+<a href="avvinashjha@gmail.com" target="_blank" >
   <img align="center" alt="Avinash's Gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
 </a>
 </br>
