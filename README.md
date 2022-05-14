@@ -61,3 +61,5 @@
 <a href="https://github.com/A-Jha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Jha&hide=css,html&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="avvinashjha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/avvinashjha?trk=profile-badge">Avinash jha</a></div>
+              
