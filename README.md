@@ -15,7 +15,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=A-Jha.A-Jha)
 [![GitHub followers](https://img.shields.io/github/followers/A-Jha.svg?style=social&label=Followers)](https://github.com/A-Jha?tab=followers)
 
-###  🔭 I’m currently working on Full Stack Web Development and Machine Learning.
+###  🔭 I’m am a Web Application Developer at Media.net.
 ### :hourglass: Programming language 
  - C++
  - Pyhon
@@ -47,7 +47,6 @@
  - AWS
  - TensorFlow
 
-###  🤔  I’m looking for Job :).
 
 ###  💬  Talk To me to get more info :)
 
